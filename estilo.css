@@ -1,0 +1,65 @@
+h1 {  
+color:purple;
+ }
+
+
+h1 span {
+
+	color:orange;
+}
+
+
+
+
+h1 {
+
+	font-size:200px;
+    font-family:'Fredoka One', cursive;
+    font-weight:999;
+    display:inline-block;
+    position:relative;
+    left:600px;
+    bottom:-100px;
+    cursor:default;
+}
+
+body  {
+
+background-color:beige;
+
+}
+
+
+
+.Scratch  {
+cursor:pointer;
+padding: 1px;
+position:relative;
+bottom: -250px;
+left:200px;
+}
+
+
+.YouTube  {
+cursor:pointer;
+padding: 1px;
+position:relative;
+bottom: -250px;
+left:-100px;
+}
+
+
+.Whatsapp  {
+cursor:pointer;
+padding: 1px;
+position:relative;
+bottom: -250px;
+left:170px;
+}
+
+
+
+
+
+
+
